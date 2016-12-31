@@ -215,5 +215,5 @@ exec --no-startup-id nm-applet &
 exec --no-startup-id telegram-desktop -startintray &
 exec --no-startup-id qlipper &
 exec --no-startup-id /usr/lib/kdeconnectd &
-exec feh --bg-scale /home/jeromy/Downloads/pixabay/current/current.jpg &
+# exec feh --bg-scale /path/to/wallpaper.jpg &
 exec env XDG_CURRENT_DESKTOP=gtk2 keepassx &
